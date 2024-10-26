@@ -1,1 +1,0 @@
-C:\Users\valen\OneDrive\Desktop\UNIVERSIDAD\ARQUITECTURA\WinMIPS64\practica 1\ejer2cpart2.s
